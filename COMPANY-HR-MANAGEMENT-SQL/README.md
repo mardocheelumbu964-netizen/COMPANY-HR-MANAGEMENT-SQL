@@ -114,10 +114,7 @@ The project answers questions such as:
 14. Which projects are over budget?
 15. What is the total company payroll?
 
-## Recommended Portfolio Presentation
 
-For GitHub, show this project as the flagship SQL project and optionally connect
-the database to Power BI for an HR dashboard.
 
 ## Author
 
